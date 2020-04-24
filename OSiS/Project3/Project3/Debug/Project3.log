@@ -1,0 +1,3 @@
+﻿  Project3.cpp
+D:\Osis\Project3\Project3\Project3.cpp(239,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Project3.vcxproj -> D:\Osis\Project3\Debug\Project3.exe

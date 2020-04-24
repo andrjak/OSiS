@@ -1,0 +1,5 @@
+﻿  Project2.cpp
+D:\Osis\Project2\Project2\Project2.cpp(49,56): warning C4244: =: преобразование "LONGLONG" в "ULONG", возможна потеря данных
+D:\Osis\Project2\Project2\Project2.cpp(52,25): warning C4244: =: преобразование "LONGLONG" в "SIZE_T", возможна потеря данных
+D:\Osis\Project2\Project2\Project2.cpp(66,60): warning C4101: i: неиспользованная локальная переменная
+  Project2.vcxproj -> D:\Osis\Project2\Debug\Project2.exe

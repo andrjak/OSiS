@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Lab11.cpp
+C:\Users\andre\OneDrive\Рабочий стол\ОСиС\Lab11\Lab11\Lab11.cpp(205,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Рабочий стол\ОСиС\Lab11\Lab11\Lab11.cpp(205,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Рабочий стол\ОСиС\Lab11\Lab11\Lab11.cpp(206,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Рабочий стол\ОСиС\Lab11\Lab11\Lab11.cpp(206,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Рабочий стол\ОСиС\Lab11\Lab11\Lab11.cpp(207,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Рабочий стол\ОСиС\Lab11\Lab11\Lab11.cpp(207,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Рабочий стол\ОСиС\Lab11\Lab11\Lab11.cpp(208,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Рабочий стол\ОСиС\Lab11\Lab11\Lab11.cpp(208,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Lab11.vcxproj -> C:\Users\andre\OneDrive\Рабочий стол\ОСиС\Lab11\Debug\Lab11.exe
